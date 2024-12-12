@@ -5,7 +5,10 @@
         "height": 175,
         "weight": 76.5,
         "car": true,
-        "languages": ["C++", "Python"]
+        "languages": [
+            "C++",
+            "Python"
+        ]
     },
     {
         "name": "Alexey Alexeev",
@@ -13,7 +16,10 @@
         "height": 197,
         "weight": 101.2,
         "car": false,
-        "languages": ["Pascal", "Delphi"]
+        "languages": [
+            "Pascal",
+            "Delphi"
+        ]
     },
     {
         "name": "Maria Ivanova",
@@ -21,9 +27,22 @@
         "height": 165,
         "weight": 56.1,
         "car": true,
-        "languages": ["C#", "C++", "C"]
+        "languages": [
+            "C#",
+            "C++",
+            "C"
+        ]
+    },
+    {
+        "name": "Raman Ska",
+        "birthday": "30.02.1989",
+        "height": 190,
+        "weight": 83.5,
+        "car": true,
+        "languages": [
+            "Kotlin",
+            "Java",
+            "Python"
+        ]
     }
 ]
-
-
-
